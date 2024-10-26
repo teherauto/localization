@@ -1,0 +1,24 @@
+{
+  "postDownloadActionExecutor.zipExtraction/status": "Kicsomagolás...",
+  "finalizing": "Letöltés befejezése... (ez eltarthat egy darabig)",
+  "noOptions": "Nincs kompatibilis változat a letöltéshez",
+  
+  "deeplink/confirmation/title": "Modell letöltése a Hugging Face oldalról 🤗",
+  "deeplink/confirmation/subtitle": "{{modelName}}",
+  "deeplink/confirmation/selectRecommended": "Válaszd ki az ajánlottat",
+  "deeplink/confirmation/selectOption": "Letöltési lehetőség kiválasztása",
+  "deeplink/confirmation/recommendedOption": "Valószínűleg a legjobb megoldás a legtöbb felhasználó számára",
+  "deeplink/confirmation/downloadButton": "Letöltés",
+  "deeplink/confirmation/nevermindButton": "Ne is törődj vele",
+  "deeplink/confirmation/modelPresent/title": "Hugging Face modelt találtam ✅",
+  "deeplink/confirmation/modelPresent/body": "Jó hír! Ez a modellfájl már megvan a gépeden.",
+  "deeplink/confirmation/loadInChat": "A {{ modelName }} modell betöltése csevegéshez",
+  "deeplink/error/modelNotFound/title": "Ajjaj, nem találjuk ezt a modellt",
+  "deeplink/error/modelNotFound/body": "Ellenőrizd a modell nevét, és próbálj meg egy másik letöltési lehetőséget.",
+  "deeplink/actions/trySearching": "Próbálj meg keresni egy {{modelName}} a Hugging Face-n",
+
+  "downloadsPanel/title": "Letöltések",
+  "downloadsPanel/sectionTitle/ongoing": "Folyamatban",
+  "downloadsPanel/sectionTitle/completed": "Befejezett"
+}
+  

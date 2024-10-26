@@ -1,0 +1,28 @@
+{
+  "collectionsColumn": "Gyűjtemények",
+  "collectionsColumn/collectionError": "Hiba a gyűjtemény részleteinek betöltésében, kérjük, próbáld meg a frissítést fent",
+  "bookmarksColumn": "Könyvjelzők",
+  "searchBar/placeholder": "Keress modelleket a Hugging Face oldalon...",
+  "searchBar/huggingFaceError": "Hiba történt az eredmények lekérdezésében a Hugging Face-től, kérjük, próbáld meg újra később.",
+  "sortBy": "Rendezés",
+  "searchSortKey.default/title": "Legjobb egyezés",
+  "searchSortKey.likes/title": "Legtöbb kedvelés",
+  "searchSortKey.downloads/title": "A legtöbb letöltés",
+  "searchSortKey.lastModified/title": "Nemrég frissítve",
+  "searchSortKey.createdAt/title": "Nemrég létrehozva",
+  "download.option.willFitEstimation.caveat": "Más tényezők is akadályozhatják a betöltést, például a modell architektúrája, a modellfájlok integritása vagy a számítógépen rendelkezésre álló memória mennyisége.",
+  "download.option.willFitEstimation.fullGPUOffload/title": "Teljes GPU-kiürítés lehetséges",
+  "download.option.willFitEstimation.fullGPUOffload/description": "Ez a modell teljes egészében elfér a GPU memóriájában. Ez jelentősen felgyorsíthatja a feldolgozást.",
+  "download.option.willFitEstimation.partialGPUOffload/title": "Részleges GPU-kiürítés lehetséges",
+  "download.option.willFitEstimation.partialGPUOffload/description": "Ez a modell részben elfér a GPU memóriájában.  Ez gyakran jelentősen felgyorsíthatja a feldolgozást.",
+  "download.option.willFitEstimation.fitWithoutGPU/title": "Valószínűleg elfér",
+  "download.option.willFitEstimation.fitWithoutGPU/description": "Ez a modell valószínűleg elfér a számítógép memóriájában.",
+  "download.option.willFitEstimation.willNotFit/title": "Valószínűleg túl nagy ehhez a géphez",
+  "download.option.willFitEstimation.willNotFit/description": "A modellfájl sikeres használatához szükséges memóriaigény meghaladhatja a gépén rendelkezésre álló erőforrásokat. Ennek a fájlnak a letöltése NEM ajánlott.",
+  "download.option.recommended/title": "Ajánlott",
+  "download.option.recommended/description": "A te hardvered alapján ez az opció ajánlott.",
+  "download.option.downloaded/title": "Letöltve",
+  "download.option.downloading/title": "Letöltés ({{progressPercentile}}%)",
+
+  "feed.action.refresh": "Csatorna frissítése"
+}

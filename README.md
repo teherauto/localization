@@ -29,6 +29,7 @@ LM Studio localization
 - Dutch (nl) [@alaaf11](https://github.com/alaaf11)
 - Italian (it) [@fralapo](https://github.com/fralapo)
 - Indonesian (id) [dwirx](https://github.com/dwirx)
+- Hungarian (hu) [@teherauto] (https://github.com/teherauto)
 
 Still under development (due to lack of RTL support in LM Studio)
 - Hebrew: [@NHLOCAL](https://github.com/NHLOCAL)

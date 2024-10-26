@@ -1,0 +1,24 @@
+{
+  "action.skipOnboarding": "Onboarding kihagyása",
+  "action.next": "Következő",
+  "action.back": "Vissza",
+  "action.finish": "Befejezés",
+
+  "dismissable_rag_modal": {
+    "description": "A Retrieval Augmented Generation (RAG) segítségével mostantól saját dokumentumokkal is cseveghetsz. Így működik:",
+    "instructions": {
+      "attach_files": {
+        "title": "Fájlok csatolása",
+        "description": "Egyszerre legfeljebb 5 fájlt tölthetsz fel, amelyek együttes mérete legfeljebb 30 MB lehet. A támogatott formátumok közé tartozik a PDF, DOCX, TXT és CSV."
+      },
+      "be_specific": {
+        "title": "Légy konkrét",
+        "description": "Kérdések feltevésekor említs meg minél több részletet. Ez segít a rendszernek abban, hogy a legrelevánsabb információkat nyerje ki a dokumentumaidból."
+      },
+      "get_responses": {
+        "title": "Szerezz válaszokat és kísérletezz",
+        "description": "Az LLM megvizsgálja a lekérdezést és a dokumentumokból származó kivonatokat, és megpróbál választ generálni. Kísérletezz különböző lekérdezésekkel, hogy megtaláld, mi működik a legjobban."
+      }
+    }
+  }
+}
